@@ -57,4 +57,4 @@ When I'm not working on projects or coursework, I usually spend time:
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com
+LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/muhtasim-fuad-chowdhury/)
