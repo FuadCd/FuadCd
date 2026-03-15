@@ -16,21 +16,6 @@ Most of my projects sit somewhere between **machine learning, data engineering, 
 
 ---
 
-## Some Projects
-
-### AI Systems Developer Capstone – Isometric Knowledge Reconstruction
-Industry-sponsored project focused on extracting structured information from **isometric piping drawings**. The system analyzes diagrams to identify components, measurements, and connectivity, and reconstructs them into structured outputs like **Bills of Materials and graph representations**.
-
-### YOLOv8 Object Detection (MNISTDD-RGB)
-Built and trained a **YOLOv8 object detection model** on 55K RGB images to detect and localize digits in noisy backgrounds. Evaluated model performance using **IoU and mAP**, and experimented with training configurations and detection thresholds.
-
-### Mini Twitter (Streamlit + SQLite)
-Developed a small full-stack microblogging platform with authentication, posting, and personalized feeds using **relational database design and SQL joins**.
-
-### SOILution – Smart Irrigation System
-Hackathon project combining **IoT sensors and data analytics** to optimize irrigation decisions based on soil and environmental conditions. Our team won **1st place in the EcoTech category at natHacks 2025**.
-
----
 
 ## Tech I Work With
 
