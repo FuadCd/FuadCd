@@ -36,7 +36,7 @@ When I'm not working on projects or coursework, I usually spend time:
 - participating in hackathons  
 - exploring new machine learning ideas  
 - playing badminton  
-- tutoring other students  
+- cooking
 
 ---
 
